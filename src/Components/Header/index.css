@@ -1,0 +1,19 @@
+:root {
+  --rosa-padrao: #ff69b4;
+}
+
+.Header {
+  background-color: var(--rosa-padrao);
+  height: 8vh;
+  width: 100%;
+  position: fixed;
+}
+
+.Name {
+  color: #ffffff;
+  font: bold;
+  font-family: inter, sans-serif;
+  font-size: 30px;
+  text-align: center;
+  padding: 22px;
+}
